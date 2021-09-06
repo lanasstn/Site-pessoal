@@ -1,1 +1,1 @@
-# Treinando criar um site pessoal
+# Estou fazendo esse site para colocar em prática meus estudos.
